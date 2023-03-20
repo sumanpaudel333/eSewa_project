@@ -76,5 +76,14 @@ public class F2_Working {
         System.out.println(a6);//10 because second condition is not checked
         System.out.println(a6 > b6 | a6++ < c6);//true | true = true
         System.out.println(a6);//11 because second condition is checked
+
+        // Java Ternary Operator
+        // Java Ternary operator is used as one line replacement for if-then-else statement and used a lot in Java
+        // programming. It is the only conditional operator which takes three operands.
+
+        int a7 = 2;
+        int b7 = 5;
+        int min = (a7 < b7) ? a7 : b7;
+        System.out.println(min);
     }
 }
