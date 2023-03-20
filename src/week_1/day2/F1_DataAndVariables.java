@@ -20,7 +20,7 @@ public class F1_DataAndVariables {
 
         byte b = 20;
         byte a = 'd';
-        // The byte data type is an example of primitive data type. It isan 8-bit signed two's complement integer.
+        // The byte data type is an example of primitive data type. It is an 8-bit signed two's complement integer.
         // Its value-range lies between -128 to 127 (inclusive). Its minimum value is -128 and maximum value is 127.
         // Its default value is 0.
         // Gives ASCII value of alphabets.
@@ -46,10 +46,9 @@ public class F1_DataAndVariables {
         // value is 0.0F.
 
         double f = 3.5;
-        // The float data type is a single-precision 32-bit IEEE 754 floating point.Its value range is unlimited. It
-        // is recommended to use a float (instead of double) if you need to save memory in large arrays of floating
-        // point numbers. The float data type should never be used for precise values, such as currency. Its default
-        // value is 0.0F.
+        // The double data type is a double-precision 64-bit IEEE 754 floating point. Its value range is unlimited.
+        // The double data type is generally used for decimal values just like float. The double data type also
+        // should never be used for precise values, such as currency. Its default value is 0.0d.
 
     }
 }
