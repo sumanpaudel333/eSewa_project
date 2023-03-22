@@ -1,6 +1,8 @@
 package week_1.day5;
 class F5_MethodInsideMethod{
 
+
+
     // calculate the sum
     public int add(int a, int b) {
 
@@ -21,6 +23,5 @@ class F5_MethodInsideMethod{
         // call the square() method
         // passing add() as an argument
         obj.square(obj.add(15, 9));
-
     }
 }
