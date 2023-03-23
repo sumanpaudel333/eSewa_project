@@ -13,7 +13,7 @@ public class Reverse {
 
         while (num != 0) {
             lastPosition = num % 10;
-            temp = lastPosition*10+lastPosition;
+            temp = temp*10 + lastPosition;
             num = num / 10;
 
         }
