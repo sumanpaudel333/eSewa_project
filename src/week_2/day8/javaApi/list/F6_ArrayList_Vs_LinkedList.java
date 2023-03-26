@@ -1,4 +1,4 @@
-package week_2.day8.javaApi;
+package week_2.day8.javaApi.list;
 
 public class F6_ArrayList_Vs_LinkedList {
 
