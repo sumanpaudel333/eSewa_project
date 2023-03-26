@@ -1,6 +1,6 @@
 package week_2.day8.javaApi;
 
-public class CollectionInterface {
+public class F1_CollectionInterface {
 
     /*
     Collection Interface
