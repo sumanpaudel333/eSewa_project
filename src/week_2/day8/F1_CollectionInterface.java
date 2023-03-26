@@ -1,4 +1,4 @@
-package week_2.day8.javaApi;
+package week_2.day8;
 
 public class F1_CollectionInterface {
 

@@ -1,4 +1,4 @@
-package week_2.day8.javaApi;
+package week_2.day8.list;
 
 import java.util.Vector;
 
