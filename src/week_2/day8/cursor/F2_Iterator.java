@@ -18,6 +18,13 @@ public class F2_Iterator {
 
      */
 
+    /*
+        Limitations
+        - only forward direction
+        - replace and addition of new object is not possible
+        (to overcome this we use ListIterator)
+     */
+
     public static void main(String[] args) {
         ArrayList al = new ArrayList();
         for (int i = 0; i < 10; i++) {
