@@ -10,7 +10,7 @@ public class F2_ListInterface {
      */
 
     /*
-    void add(int index, Object o)
+    void add(int index, Object o)g
     boolean addAll(int index, Collection c)
     Object get(int index)
     Object remove(int index)
