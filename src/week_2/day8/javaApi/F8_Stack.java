@@ -1,4 +1,4 @@
-package week_2.day8.javaApi.list;
+package week_2.day8.javaApi;
 
 import java.lang.reflect.Constructor;
 import java.util.Stack;
