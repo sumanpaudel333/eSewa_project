@@ -19,8 +19,6 @@ public class F4_TreeSet {
         TreeSet t = new TreeSet(Comparator c); -> customized sorting
         TreeSet t = new TreeSet(Collection c);
         TreeSet t = new TreeSet(SortedSet s);
-
-
      */
 
     public static void main(String[] args) {
