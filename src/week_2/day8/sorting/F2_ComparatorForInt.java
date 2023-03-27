@@ -36,7 +36,7 @@ public class F2_ComparatorForInt {
 
         // For customized (descending order) (jvm will call compare() method)
 
-        TreeSet t = new TreeSet(new myComparator());
+        TreeSet t = new TreeSet(new myComparatorString());
         t.add(10);
         t.add(0);
         t.add(15);
