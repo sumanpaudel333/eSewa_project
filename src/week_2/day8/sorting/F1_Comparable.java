@@ -15,6 +15,12 @@ public class F1_Comparable {
         returns 0 iff obj1 & obj2 are equal
 
      */
+    /*
+        - If we are not satisfied with default natural sorting order or if the default natural sorting order is not
+        already available then we can define our own customized sorting by using Comparator.
+        - Comparable is meant for Default Natural Sorting order whereas Comparator is meant for customized Sorting
+        order.
+     */
     public static void main(String[] args) {
         System.out.println("A".compareTo("Z"));
         System.out.println("Z".compareTo("B"));
